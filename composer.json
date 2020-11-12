@@ -1,0 +1,7 @@
+{     
+    "name": "stansproject/stansproject",
+    "description": "NewsApp.",
+    "require": {
+        "rain/raintpl": "^3.1"
+    }
+}
